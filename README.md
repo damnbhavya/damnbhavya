@@ -12,9 +12,9 @@
 
 ## <samp>Technologies</samp>
 
-<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite,figma&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite,figma,python&theme=dark" /></a>
 <br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=python,java,c,r,supabase,mysql,git,github,vercel,notion&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=java,c,r,supabase,mysql,git,github,vercel,notion&theme=dark" /></a>
 
 ## <samp>Stats</samp>
 
