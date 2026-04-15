@@ -19,7 +19,7 @@
 ## <samp>Stats</samp>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=damnbhavya&hide_border=true&background=181818&ring=0062AD&fire=0062AD&currStreakLabel=0062AD&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=2d2d2d&border_radius=14&cache_seconds=1&v=3" width="54%" />
+  <img src="https://streak-stats.demolab.com?user=damnbhavya&hide_border=true&background=181818&ring=0062AD&fire=0062AD&currStreakLabel=0062AD&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=2d2d2d&border_radius=14&cache_seconds=2&v=4" width="54%" />
 </a>
 <br/>
 
