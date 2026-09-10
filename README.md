@@ -5,8 +5,8 @@
 <br/>
 
 <a href="https://linkedin.com/in/katariabhavya"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="36" /></a>&ensp;
-<a href="https://x.com/dizzywebhead"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="36" /></a>&ensp;
-<a href="https://instagram.com/damnbhavya"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="36" /></a>&ensp;
+<a href="https://x.com/dumbhavya"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="36" /></a>&ensp;
+<a href="https://instagram.com/inahospitalbed"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="36" /></a>&ensp;
 <a href="https://open.spotify.com/user/31ohvk2dzwypbbidqvzijixfftfq"><img src="https://skillicons.dev/icons?i=spotify&theme=dark" width="36" /></a>&ensp;
 <a href="http://discordapp.com/users/1368102186890035220"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="36" /></a>
 
